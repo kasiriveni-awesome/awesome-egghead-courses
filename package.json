@@ -1,0 +1,22 @@
+{
+  "name": "awesome-egghead-courses",
+  "version": "0.0.1",
+  "description": "list of awesome egghead courses",
+  "main": "src/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasiriveni/awesome-egghead-courses.git"
+  },
+  "keywords": [
+    "egghead-courses"
+  ],
+  "author": "kasiriveni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasiriveni/awesome-egghead-courses/issues"
+  },
+  "homepage": "https://github.com/kasiriveni/awesome-egghead-courses#readme"
+}
