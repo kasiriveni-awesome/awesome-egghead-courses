@@ -1,0 +1,783 @@
+[
+  {
+    "title": [
+      "Start Using React to Build Web Applications"
+    ],
+    "link": [
+      "https://egghead.io/courses/react-fundamentals"
+    ],
+    "author": [
+      "WATCH Joe Maddalone’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Getting Started with Redux"
+    ],
+    "link": [
+      "https://egghead.io/courses/getting-started-with-redux"
+    ],
+    "author": [
+      "WATCH Dan Abramov’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Building React Applications with Idiomatic Redux"
+    ],
+    "link": [
+      "https://egghead.io/courses/building-react-applications-with-idiomatic-redux"
+    ],
+    "author": [
+      "WATCH Dan Abramov’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Getting Started with React Router"
+    ],
+    "link": [
+      "https://egghead.io/courses/getting-started-with-react-router"
+    ],
+    "author": [
+      "WATCH Joe Maddalone’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "React Testing Cookbook"
+    ],
+    "link": [
+      "https://egghead.io/courses/react-testing-cookbook"
+    ],
+    "author": [
+      "WATCH Trevor Miller’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Build Your First React.js App"
+    ],
+    "link": [
+      "https://egghead.io/courses/build-your-first-react-js-application"
+    ],
+    "author": [
+      "WATCH Tyler McGinnis’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "React Native Fundamentals"
+    ],
+    "link": [
+      "https://egghead.io/courses/react-native-fundamentals"
+    ],
+    "author": [
+      "WATCH Tyler McGinnis’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "React: Flux Architecture (ES6)"
+    ],
+    "link": [
+      "https://egghead.io/courses/react-flux-architecture-es6"
+    ],
+    "author": [
+      "WATCH Joe Maddalone’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Manage Complex State in React Apps with MobX"
+    ],
+    "link": [
+      "https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx"
+    ],
+    "author": [
+      "WATCH Michel Weststrate’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Animate React Native UI Elements"
+    ],
+    "link": [
+      "https://egghead.io/courses/animate-react-native-ui-elements"
+    ],
+    "author": [
+      "WATCH Jason Brown’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Get Started with Angular 2 "
+    ],
+    "link": [
+      "https://egghead.io/courses/angular-2-fundamentals"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Building Angular 2 Components"
+    ],
+    "link": [
+      "https://egghead.io/courses/building-angular-2-components"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Build Redux Style Applications with Angular2, RxJS, and ngrx/store"
+    ],
+    "link": [
+      "https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Angular 2 Dependency Injection (DI) Explained"
+    ],
+    "link": [
+      "https://egghead.io/courses/angular-2-dependency-injection-di-explained"
+    ],
+    "author": [
+      "WATCH Pascal Precht’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Build an Angular 2 Instant Search Component"
+    ],
+    "link": [
+      "https://egghead.io/courses/build-an-angular-2-instant-search-component"
+    ],
+    "author": [
+      "WATCH Christoph Burgdorf’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Manage UI State with the Angular 2 Router"
+    ],
+    "link": [
+      "https://egghead.io/courses/intro-to-angular-2-router"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Learn the Basics of Angular 2 Forms"
+    ],
+    "link": [
+      "https://egghead.io/courses/intro-to-angular-2-forms"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Animate Angular 2 Web Applications"
+    ],
+    "link": [
+      "https://egghead.io/courses/animate-angular-2-web-applications"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Using Angular 2 Patterns in Angular 1.x Apps"
+    ],
+    "link": [
+      "https://egghead.io/courses/using-angular-2-patterns-in-angular-1-x-apps"
+    ],
+    "author": [
+      "WATCH Lukas Ruebbelke’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "AngularJS Fundamentals"
+    ],
+    "link": [
+      "https://egghead.io/courses/angularjs-app-from-scratch-getting-started"
+    ],
+    "author": [
+      "WATCH Lukas Ruebbelke’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "AngularJS Application Architecture"
+    ],
+    "link": [
+      "https://egghead.io/courses/angularjs-application-architecture"
+    ],
+    "author": [
+      "WATCH Lukas Ruebbelke’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Introduction to Angular Material "
+    ],
+    "link": [
+      "https://egghead.io/courses/angular-material-introduction"
+    ],
+    "author": [
+      "WATCH Aaron Frost’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Building an Angular 1.x Ionic Application"
+    ],
+    "link": [
+      "https://egghead.io/courses/building-an-angular-1-x-ionic-application"
+    ],
+    "author": [
+      "WATCH Lukas Ruebbelke’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Angular and Webpack for Modular Applications"
+    ],
+    "link": [
+      "https://egghead.io/courses/angular-and-webpack-for-modular-applications"
+    ],
+    "author": [
+      "WATCH Kent C. Dodds’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "AngularJS Authentication with JWT"
+    ],
+    "link": [
+      "https://egghead.io/courses/angularjs-authentication-with-jwt"
+    ],
+    "author": [
+      "WATCH Kent C. Dodds’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "AngularJS Data Modeling"
+    ],
+    "link": [
+      "https://egghead.io/courses/angularjs-data-modeling"
+    ],
+    "author": [
+      "WATCH Brett Shollenberger’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Angular Automation with Gulp"
+    ],
+    "link": [
+      "https://egghead.io/courses/angular-automation-with-gulp"
+    ],
+    "author": [
+      "WATCH Lukas Ruebbelke’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Learn Protractor Testing for AngularJS"
+    ],
+    "link": [
+      "https://egghead.io/courses/learn-protractor-testing-for-angularjs"
+    ],
+    "author": [
+      "WATCH Joel Hooks’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Ionic Quickstart for Windows and Mac"
+    ],
+    "link": [
+      "https://egghead.io/courses/ionic-quickstart-for-windows"
+    ],
+    "author": [
+      "WATCH Lukas Ruebbelke’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Build Angular 1.x Apps with Redux"
+    ],
+    "link": [
+      "https://egghead.io/courses/build-angular-1-x-apps-with-redux"
+    ],
+    "author": [
+      "WATCH Lukas Ruebbelke’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Introduction to Reactive Programming"
+    ],
+    "link": [
+      "https://egghead.io/courses/introduction-to-reactive-programming"
+    ],
+    "author": [
+      "WATCH André Staltz’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Step-by-Step Async JavaScript with RxJS"
+    ],
+    "link": [
+      "https://egghead.io/courses/step-by-step-async-javascript-with-rxjs"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "RxJS Beyond the Basics: Creating Observables from scratch"
+    ],
+    "link": [
+      "https://egghead.io/courses/rxjs-beyond-the-basics-creating-observables-from-scratch"
+    ],
+    "author": [
+      "WATCH André Staltz’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "RxJS Beyond the Basics: Operators in Depth"
+    ],
+    "link": [
+      "https://egghead.io/courses/rxjs-beyond-the-basics-operators-in-depth"
+    ],
+    "author": [
+      "WATCH André Staltz’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "RxJS Subjects and Multicasting Operators"
+    ],
+    "link": [
+      "https://egghead.io/courses/rxjs-subjects-and-multicasting-operators"
+    ],
+    "author": [
+      "WATCH André Staltz’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Cycle.js Fundamentals"
+    ],
+    "link": [
+      "https://egghead.io/courses/cycle-js-fundamentals"
+    ],
+    "author": [
+      "WATCH André Staltz’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Learn ES6 (ECMAScript 2015)"
+    ],
+    "link": [
+      "https://egghead.io/courses/learn-es6-ecmascript-2015"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Using Webpack for Production JavaScript Applications"
+    ],
+    "link": [
+      "https://egghead.io/courses/using-webpack-for-production-javascript-applications"
+    ],
+    "author": [
+      "WATCH Kent C. Dodds’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "GIF Loop Coder for Creating Animation"
+    ],
+    "link": [
+      "https://egghead.io/courses/gif-loop-coder-for-creating-animation"
+    ],
+    "author": [
+      "WATCH Keith Peters’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Reduce Data with Javascript Array#reduce"
+    ],
+    "link": [
+      "https://egghead.io/courses/reduce-data-with-javascript"
+    ],
+    "author": [
+      "WATCH mykola bilokonsky’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Asynchronous Programming: The End of The Loop"
+    ],
+    "link": [
+      "https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop"
+    ],
+    "author": [
+      "WATCH Jafar Husain’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Regex in Javascript"
+    ],
+    "link": [
+      "https://egghead.io/courses/regex-in-javascript"
+    ],
+    "author": [
+      "WATCH Joe Maddalone’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Learn HTML5 Graphics and Animation"
+    ],
+    "link": [
+      "https://egghead.io/courses/learn-html5-graphics-and-animation"
+    ],
+    "author": [
+      "WATCH Keith Peters’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Advanced Logging with the JavaScript Console"
+    ],
+    "link": [
+      "https://egghead.io/courses/js-console-for-power-users"
+    ],
+    "author": [
+      "WATCH mykola bilokonsky’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Understand JavaScript Arrays"
+    ],
+    "link": [
+      "https://egghead.io/courses/javascript-arrays-in-depth"
+    ],
+    "author": [
+      "WATCH Shane Osbourne’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "How to Contribute to an Open Source Project on GitHub"
+    ],
+    "link": [
+      "https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github"
+    ],
+    "author": [
+      "WATCH Kent C. Dodds’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "How to Write an Open Source JavaScript Library"
+    ],
+    "link": [
+      "https://egghead.io/courses/how-to-write-an-open-source-javascript-library"
+    ],
+    "author": [
+      "WATCH Kent C. Dodds’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Learn how to use Immutable.js"
+    ],
+    "link": [
+      "https://egghead.io/courses/learn-how-to-use-immutable-js"
+    ],
+    "author": [
+      "WATCH J.S. Leonard’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Creating Custom Web Elements with Polymer"
+    ],
+    "link": [
+      "https://egghead.io/courses/creating-custom-web-elements-with-polymer"
+    ],
+    "author": [
+      "WATCH Joe Maddalone’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Create 3D Graphics in JavaScript Using WebGL"
+    ],
+    "link": [
+      "https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl"
+    ],
+    "author": [
+      "WATCH Keith Peters’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Professor Frisby Introduces Composable Functional JavaScript"
+    ],
+    "link": [
+      "https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript"
+    ],
+    "author": [
+      "WATCH Brian Lonsdorf’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Build Complex 3D models with WebGL"
+    ],
+    "link": [
+      "https://egghead.io/courses/build-complex-3d-models-with-webgl"
+    ],
+    "author": [
+      "WATCH Keith Peters’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Develop Web Apps with Vue.js"
+    ],
+    "link": [
+      "https://egghead.io/courses/develop-web-apps-with-vue-js"
+    ],
+    "author": [
+      "WATCH Greg Thoman’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Introduction to Node Servers with Hapi.js"
+    ],
+    "link": [
+      "https://egghead.io/courses/introduction-to-node-servers-with-hapi-js"
+    ],
+    "author": [
+      "WATCH Mike Frey’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Introduction to Node: The Fundamentals"
+    ],
+    "link": [
+      "https://egghead.io/courses/introduction-to-node-the-fundamentals"
+    ],
+    "author": [
+      "WATCH Will Button’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Getting Started with Express.js"
+    ],
+    "link": [
+      "https://egghead.io/courses/getting-started-with-express-js"
+    ],
+    "author": [
+      "WATCH Ben Clinkinbeard’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Build Node.js APIs with OpenAPI Spec (Swagger)"
+    ],
+    "link": [
+      "https://egghead.io/courses/build-node-js-apis-with-openapi-spec-swagger"
+    ],
+    "author": [
+      "WATCH Will Button’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Flexbox Fundamentals"
+    ],
+    "link": [
+      "https://egghead.io/courses/flexbox-fundamentals"
+    ],
+    "author": [
+      "WATCH Garth Braithwaite’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Learn Advanced CSS Layout Techniques"
+    ],
+    "link": [
+      "https://egghead.io/courses/learn-advanced-css-layout-techniques"
+    ],
+    "author": [
+      "WATCH Damon Bauer’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Start Using Elm to Build Web Applications"
+    ],
+    "link": [
+      "https://egghead.io/courses/start-using-elm-to-build-web-applications"
+    ],
+    "author": [
+      "WATCH Murphy Randle’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Use D3 (v3) to Build Interactive Charts with JavaScript"
+    ],
+    "link": [
+      "https://egghead.io/courses/introduction-to-d3"
+    ],
+    "author": [
+      "WATCH Ben Clinkinbeard’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Build Interactive JavaScript Charts with D3 v4"
+    ],
+    "link": [
+      "https://egghead.io/courses/build-interactive-javascript-charts-with-d3-v4"
+    ],
+    "author": [
+      "WATCH Ben Clinkinbeard’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Learn to Use VIM"
+    ],
+    "link": [
+      "https://egghead.io/courses/learn-to-use-vim"
+    ],
+    "author": [
+      "WATCH Mike Hartington’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Practical Git for Everyday Professional Use"
+    ],
+    "link": [
+      "https://egghead.io/courses/practical-git-for-everyday-professional-use"
+    ],
+    "author": [
+      "WATCH Trevor Miller’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Start Building Accessible Web Applications Today"
+    ],
+    "link": [
+      "https://egghead.io/courses/start-building-accessible-web-applications-today"
+    ],
+    "author": [
+      "WATCH Marcy Sutton’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Debug the DOM in Chrome with the Devtools Elements Panel"
+    ],
+    "link": [
+      "https://egghead.io/courses/using-chrome-developer-tools-elements"
+    ],
+    "author": [
+      "WATCH mykola bilokonsky’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Debug JavaScript in Chrome with DevTool Sources"
+    ],
+    "link": [
+      "https://egghead.io/courses/chrome-devtools-sources-panel"
+    ],
+    "author": [
+      "WATCH mykola bilokonsky’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Debug HTTP with Chrome DevTools Network Panel"
+    ],
+    "link": [
+      "https://egghead.io/courses/chrome-devtools-network-panel"
+    ],
+    "author": [
+      "WATCH mykola bilokonsky’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Record Badass Screencasts for egghead.io"
+    ],
+    "link": [
+      "https://egghead.io/courses/record-badass-screencasts-for-egghead-io"
+    ],
+    "author": [
+      "WATCH Trevor Miller’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Up and Running with TypeScript"
+    ],
+    "link": [
+      "https://egghead.io/courses/up-and-running-with-typescript"
+    ],
+    "author": [
+      "WATCH John  Lindquist’s COURSE"
+    ]
+  },
+  {
+    "title": [
+      "Use Types Effectively in TypeScript"
+    ],
+    "link": [
+      "https://egghead.io/courses/use-types-effectively-in-typescript"
+    ],
+    "author": [
+      "WATCH Ari Picker’s COURSE"
+    ]
+  }
+]
