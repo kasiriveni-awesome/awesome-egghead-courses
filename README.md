@@ -8,10 +8,11 @@
  createing rich ui for Egghead course
 
 # steps
+
  ```
-	npm install
-	npm start
-	```
+npm install
+npm start
+```
 
 
 # License
